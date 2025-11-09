@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Agbalumo&family=Cormorant+Garamond:wght@300&family=Dancing+Script&family=Kalam&family=Literata:ital,opsz,wght@1,7..72,200&display=swap');
+html{
+    font-family: literata;
+}
+h1{
+    font-size: 20px;
+}
+h2{
+    font-size: 15px;
+}
+.black{
+    background-color: black;
+    color: aliceblue;
+}
+.gris{
+    background-color: gray;
+}
+.gris2{
+    background-color: gainsboro;
+}
+.bordo{
+    background-color:rgb(205, 92, 92);
+}
+.bordo2{
+    background-color: blueviolet;
+}
+
+.arco1{
+    background-color: #ff0000;
+}
+
+.arco2{
+    background-color: #eeff00;  
+}
+
+.arco3{
+    background-color: #0ef007;  
+}
+.arco4{
+    background-color: #2f00ff;      
+}
+.arco5{
+    background-color: #ff00dd;  
+}

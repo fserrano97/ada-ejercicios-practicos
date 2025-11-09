@@ -1,0 +1,50 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: rgb(53, 53, 122);
+}
+.container{
+    width: 700px;
+    height: 300px;
+    margin: 0 auto;
+    background-color: rgb(41, 53, 64);
+    margin-top: 100px;
+}
+.title{
+    color: rgb(116, 120, 124);
+    font-size: 17px;
+}
+.caja-title{
+    padding: 20px;
+    text-align: center;
+}
+.caja-medio{
+    display: flex;
+    flex-direction: row;
+
+}
+p{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 15px;
+    text-align: center;
+}
+.caja{
+    padding: 10px;
+    margin: 5px;
+}
+h2{
+    text-align: center;
+}
+.caja-ultima{
+    padding: 40px;
+    margin: 10px;
+}
+.p-ultima{
+    font-size: 14px;
+    font-weight: bold;
+    
+}

@@ -1,0 +1,41 @@
+html{
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.negrita{
+    color: rgb(255, 0, 0);
+}
+
+.azul{
+    color: blue;    
+}
+
+.celeste{
+    color: rgb(81, 61, 255);
+}   
+
+.celeste-claro{
+    color: rgb(136, 211, 255);
+}   
+
+.claro{
+    color: rgb(104, 111, 150);   
+}
+.gris{
+    color: rgb(133, 131, 160);
+}
+.blanco{
+    color: rgb(219, 204, 204);   
+}
+.amarillo-claro{
+    color: rgb(223, 223, 81);   
+}   
+.amarillo{
+    color: rgb(235, 235, 51);  
+}
+.naranja-claro{
+    color: rgb(236, 152, 74);   
+}   
+.naranja{
+    color: orange;  
+}

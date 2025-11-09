@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Agbalumo&family=Cormorant+Garamond:wght@300&family=Dancing+Script&family=Kalam&display=swap');
+
+h1{
+    font-family: kalam;
+    font-size: 55px;
+}
+
+.tex-link{
+color: gray;
+font-family: Arial, Helvetica, sans-serif;
+}
+
+
+
+a{
+    text-decoration: none;
+    color: cornflowerblue;
+}
+
+p{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.italica
+{
+    font-style: italic;
+}
+
+.negrita{
+   font-weight: bolder;
+}
+
+.p3{
+    font-style: italic;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}

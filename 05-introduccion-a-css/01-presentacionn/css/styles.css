@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Agbalumo&family=Cormorant+Garamond:wght@300&family=Dancing+Script&display=swap');
+#titulo{
+    font-size: 120px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight:800;
+}
+p{
+    font-size: 48px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 600;
+
+}
+.color0{
+    color: blueviolet;
+}
+.color1{
+    color: brown;
+}
+.color2{
+    color: aqua;
+}
+.color3{
+    color: pink;
+}
