@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container-barras{
+    display: flex;
+    flex-direction: column;
+}
+.barra{
+  width: 35%;
+    height: 35px;
+    background-color: rgb(240, 240, 240);
+    border-radius: 100px;
+    padding: 3px;
+    display: flex;
+    align-items: center;
+    margin: 12px;
+}
+.progreso{
+    height: 30px;
+    border-radius: 100px;
+    background-color: #4ea14e;
+    margin: 1px;
+}
+.diez{
+    width: 10%;
+}
+.veinte{
+    width: 33%;
+}
+.treinta{
+    width: 55%;
+}
+.cuarenta{
+    width: 79%;
+}

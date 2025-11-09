@@ -1,0 +1,128 @@
+*{
+	 margin: 0px;
+     padding: 0px;
+     box-sizing: border-box;
+}
+body{
+    display: flex;
+}
+.contenedor-banderas{
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+    flex-wrap: wrap;
+}
+
+.bandera-argentina{
+    width: 300px;
+    height: 200px;
+    border: 1px solid;
+    display: flex;
+    flex-direction: column;
+    margin: 10px 0px 30px 10px;
+}
+
+img{
+    width: 100px;
+    margin: 10px 10px 30px 10px;
+}
+
+.franja-celeste{
+    height: 66.6px;
+    background-color: cornflowerblue;
+    
+}
+.franja-blanca{
+  height: 66.6px;
+    background-color: #ffffff;
+}
+
+
+
+.bandera-mexico{
+    width: 300px;
+    height: 200px;
+    border: 1px solid;
+    display: flex;
+    margin: 10px 0px 30px 10px;
+}
+.franja-verde-vertical{
+    width: 100px;
+    background-color: green;
+}
+.franja-blanca-vertical{
+    width: 100px;
+    background-color: rgb(255, 255, 255);
+}
+.franja-roja-vertical{
+    width: 100px;
+    background-color: red;
+}
+
+
+.bandera-francia{
+    height: 200px;
+    width: 300px;
+    display: flex;
+    border: 1px solid;
+    margin: 10px 0px 30px 10px;
+}
+.franja-azul-vertical{
+    width: 100px;
+    background-color: blue;
+}
+
+
+.bandera-alemania{
+    width: 300px;
+    display: flex;
+    height: 200px;
+    border: 1px solid;
+    margin: 10px 0px 30px 10px;
+    flex-direction: column;
+}
+
+.franja-negra{
+    height: 66.6px;
+    background-color: rgb(0, 0, 0);
+}
+
+.franja-roja{
+    height: 66.6px;
+    background-color: rgb(255, 0, 0);
+}
+.franja-amarilla{
+    height: 66.6px;
+    background-color: rgb(255, 255, 0);
+}
+
+
+.bandera-chile{
+    width: 300px;
+    height: 200px;
+    display: flex;
+    flex-direction: column;
+    border: 1px solid;
+    margin: 10px 10px 30px 10px;
+}
+
+.bloque-arriba{
+    width: 300px;
+    height: 50%;
+    display: flex;
+    flex-direction: row;
+}
+.cuadro-azul-estrella{
+    background-color: rgb(0, 0, 139);
+    font-size: 67px;
+    width: 35%;
+    display: flex;
+    justify-content: center;
+}
+.cuadro-blanco{
+    width: 65%;
+}
+.franja-roja-chile{
+   height: 50%;
+    background-color: red;
+}
