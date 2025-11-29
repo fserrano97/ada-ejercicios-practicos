@@ -1,0 +1,113 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: Arial, sans-serif;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    background-color: #f5f7fb;
+    color: #10182f;
+
+}
+
+.container{
+   background-color: white;
+    width: 87%;
+    border-top: 3px solid #272e41;
+    box-shadow: 0 2px 12px rgba(0,0,0,0.15);
+}
+
+.container-uno{
+   display: flex;
+    justify-content: space-around;
+    padding: 50px;
+}
+
+.column-uno{
+        display: flex;
+    margin-right: 20%;
+    width: 20%;
+    font-size: 12px;
+    padding: 10px;
+}
+.columnas-enlaces{
+     display: flex;
+    /* gap: 27px; */
+    width: 80%;
+    padding: 0px 10px;
+    justify-content: space-between;
+}
+.icono{
+    width: 23px;
+    height: 28px;
+    margin-right: 11px;
+}
+
+.column-dos {
+    margin-top: 20px;
+}
+.column-dos a{
+    display: block;
+        margin: 19px 0px 10px 0px;
+    color: #5f6883;
+    font-size: 13px;
+    text-decoration: none;
+  
+}
+
+.column-dos h4{
+    font-size: 12px;
+    margin-bottom: 35px;
+}
+
+.column-dos a:hover{
+    color: #272e41;
+    font-weight: bold;
+}
+
+.container-dos{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    padding: 40px;
+    color: #5f6883;
+}
+.reserv{
+    font-size: 12px;
+    width: 25%;
+}
+.politicas{
+    display: flex;
+    gap: 26px;
+    width: 50%;
+}
+.politicas a{
+    display: inline-block;
+    font-size: 12px;
+    text-decoration: none;
+    color: #5f6883;
+    width: 25%;
+}
+.redes img{
+   width: 16px;
+   cursor: pointer;
+    height: 16px;
+}
+
+
+
+.redes{
+    display: flex;
+    gap: 20px;  
+}
+
+.container-dos a:hover{
+    color: #272e41;
+    text-decoration-line: underline;
+}

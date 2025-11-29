@@ -1,0 +1,53 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: #273c56;
+    color: white;
+    display: flex;
+    height: 100vh;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 55%;
+    padding: 53px 76px;
+    border-radius: 5px;
+    background-color: #152436;
+}
+h4{
+    margin-bottom: 40px ;
+    font-size: 19px;
+}
+.contenedor-estadistica{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    display: flex;
+   text-align: center;
+  justify-content: space-around;
+}
+.info-estadistica{
+    
+    margin: 20px ;
+}
+h1{
+    margin-bottom: 13px;
+}
+p{
+    font-size: 11px;
+}
+
+a{
+    text-decoration: none;
+    color: #294189;
+}
+.text-enlace{
+    margin-top: 40px;
+}
